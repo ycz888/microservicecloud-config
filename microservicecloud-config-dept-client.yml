@@ -51,7 +51,7 @@ spring:
    datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://192.168.113.133:3306/clouddb02        # 数据库名称
+    url: jdbc:mysql://192.168.113.133:3306/clouddb03        # 数据库名称
     username: admin
     password: 123456
     druid:
